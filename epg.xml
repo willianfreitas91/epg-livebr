@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info="FoxWear EPG Generator">
+
+  <!-- Band -->
+  <channel id="Band.4K">
+    <display-name>Band 4K</display-name>
+  </channel>
+  <channel id="Band.FHD.H265">
+    <display-name>Band FHD [H265]</display-name>
+  </channel>
+  <channel id="Band.HD">
+    <display-name>Band HD</display-name>
+  </channel>
+
+  <!-- Globo -->
+  <channel id="Globo.4K">
+    <display-name>Globo 4K</display-name>
+  </channel>
+  <channel id="Globo.FHD.H265">
+    <display-name>Globo FHD [H265]</display-name>
+  </channel>
+  <channel id="Globo.HD">
+    <display-name>Globo HD</display-name>
+  </channel>
+
+  <!-- Record -->
+  <channel id="Record.4K">
+    <display-name>Record 4K</display-name>
+  </channel>
+  <channel id="Record.FHD.H265">
+    <display-name>Record FHD [H265]</display-name>
+  </channel>
+  <channel id="Record.HD">
+    <display-name>Record HD</display-name>
+  </channel>
+
+  <!-- SBT -->
+  <channel id="SBT.4K">
+    <display-name>SBT 4K</display-name>
+  </channel>
+  <channel id="SBT.FHD.H265">
+    <display-name>SBT FHD [H265]</display-name>
+  </channel>
+  <channel id="SBT.HD">
+    <display-name>SBT HD</display-name>
+  </channel>
+
+  <!-- Telecine Channels -->
+  <channel id="Telecine.Premium.4K">
+    <display-name>Telecine Premium 4K</display-name>
+  </channel>
+  <channel id="Telecine.Premium.FHD.H265">
+    <display-name>Telecine Premium FHD [H265]</display-name>
+  </channel>
+  <channel id="Telecine.Premium.HD">
+    <display-name>Telecine Premium HD</display-name>
+  </channel>
+
+  <channel id="Telecine.Action.4K">
+    <display-name>Telecine Action 4K</display-name>
+  </channel>
+  <channel id="Telecine.Action.FHD.H265">
+    <display-name>Telecine Action FHD [H265]</display-name>
+  </channel>
+  <channel id="Telecine.Action.HD">
+    <display-name>Telecine Action HD</display-name>
+  </channel>
+
+  <!-- HBO Channels -->
+  <channel id="HBO.4K">
+    <display-name>HBO 4K</display-name>
+  </channel>
+  <channel id="HBO.FHD.H265">
+    <display-name>HBO FHD [H265]</display-name>
+  </channel>
+  <channel id="HBO.HD">
+    <display-name>HBO HD</display-name>
+  </channel>
+
+  <channel id="HBO.2.4K">
+    <display-name>HBO 2 4K</display-name>
+  </channel>
+  <channel id="HBO.2.FHD.H265">
+    <display-name>HBO 2 FHD [H265]</display-name>
+  </channel>
+  <channel id="HBO.2.HD">
+    <display-name>HBO 2 HD</display-name>
+  </channel>
+
+  <channel id="HBO.Signature.4K">
+    <display-name>HBO Signature 4K</display-name>
+  </channel>
+  <channel id="HBO.Signature.FHD.H265">
+    <display-name>HBO Signature FHD [H265]</display-name>
+  </channel>
+  <channel id="HBO.Signature.HD">
+    <display-name>HBO Signature HD</display-name>
+  </channel>
+
+  <!-- Discovery Channels -->
+  <channel id="Discovery.4K">
+    <display-name>Discovery 4K</display-name>
+  </channel>
+  <channel id="Discovery.FHD.H265">
+    <display-name>Discovery FHD [H265]</display-name>
+  </channel>
+  <channel id="Discovery.HD">
+    <display-name>Discovery HD</display-name>
+  </channel>
+
+  <!-- Multishow -->
+  <channel id="Multishow.4K">
+    <display-name>Multishow 4K</display-name>
+  </channel>
+  <channel id="Multishow.FHD.H265">
+    <display-name>Multishow FHD [H265]</display-name>
+  </channel>
+  <channel id="Multishow.HD">
+    <display-name>Multishow HD</display-name>
+  </channel>
+
+  <!-- National Geographic -->
+  <channel id="NatGeo.4K">
+    <display-name>National Geographic 4K</display-name>
+  </channel>
+  <channel id="NatGeo.FHD.H265">
+    <display-name>National Geographic FHD [H265]</display-name>
+  </channel>
+  <channel id="NatGeo.HD">
+    <display-name>National Geographic HD</display-name>
+  </channel>
+
+</tv>
